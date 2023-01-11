@@ -1,4 +1,4 @@
-# Sk Shieldus Rookies 미니 프로젝트
+# S Shieldus Rookies 미니 프로젝트
 
 
 ## 주제 
