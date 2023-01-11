@@ -35,6 +35,9 @@ Sk Shieldus Rookies 미니 프로젝트
  - 버블디아 (https://www.youtube.com/@Bubble-dia)
  - 셀프노트 스튜디오 (https://www.youtube.com/@user-pw3lj1vv9j)
  - 잠골버스 (https://www.youtube.com/@zamgolbers)
+
+### 까까들
+- https://www.youtube.com/channel/UCiSsEIQ_O4Z5ykHXCj4pcuw
  
 ## 참고 자료
 - API를 활용한 유튜브 크롤링 (https://ssongblog.tistory.com/125) 
