@@ -1,5 +1,5 @@
-# youtube_project_rookies
-Sk Shieldus Rookies 미니 프로젝트
+# Sk Shieldus Rookies 미니 프로젝트
+
 
 ## 주제 
 * 특정 음악장르 유튜버를 여려명 지정하고, 영상에서 볼 수 있는 속성들를 사용해, 결산 레포트 만들기
@@ -20,7 +20,7 @@ Sk Shieldus Rookies 미니 프로젝트
 
 ### 연예인 음악 유튜버
  - 기준
-   - 커버곡이 아닌 본인의 곡을 일반인도 알법한 노래를 가진 가수
+   - 커버곡이 아닌 본인의 곡이 일반인도 알법한 노래인 가수
  - 성시경 (https://www.youtube.com/@sungsikyung)
  - 임한별 (https://www.youtube.com/@onestarl)
  - 10CM (https://www.youtube.com/@10CM)
