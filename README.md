@@ -9,8 +9,8 @@ Sk Shieldus Rookies 미니 프로젝트
  
 
 < 공식문서 > 
-[ Data API ] https://developers.google.com/youtube/v3/getting-started?hl=ko 
-[ Python 코드 예 ]https://developers.google.com/youtube/v3/code_samples/python?hl=ko 
+* [ Data API ] https://developers.google.com/youtube/v3/getting-started?hl=ko 
+* [ Python 코드 예 ]https://developers.google.com/youtube/v3/code_samples/python?hl=ko 
 
 < 참고 > 
 * [ API를 활용한 유튜브 크롤링 ]  < https://ssongblog.tistory.com/125 >
