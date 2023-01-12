@@ -51,6 +51,10 @@
 - API 속성부분 (https://developers.google.com/youtube/v3/docs?hl=ko#Videos)
 - API Python 코드 예시 자료 (https://developers.google.com/youtube/v3/code_samples/python?hl=ko)
 
+## 프로젝트 참고 
+ - [미니프로젝트] 데이터 수집 (https://velog.io/@moonstar/미니프로젝트-데이터-수집)
+ - 유튜브 썸네일 속 글자로 조회수 예측하기 (https://velog.io/@recoder/hitshike-thumbnail-text-01)
+
 ## 필요 패키지 설치
 - 유튜브 API 라이브러리
   - !pip install --upgrade google-api-python-client
