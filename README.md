@@ -49,3 +49,8 @@
 ### 공식문서
 - Data API (https://developers.google.com/youtube/v3/getting-started?hl=ko)
 - Python 코드 예시 자료 (https://developers.google.com/youtube/v3/code_samples/python?hl=ko)
+
+## 필요 패키지 설치
+- 유튜브 API 라이브러리
+  - !pip install --upgrade google-api-python-client
+  - !pip install oauth2client
