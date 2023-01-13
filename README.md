@@ -36,6 +36,7 @@
 - https://www.youtube.com/channel/UCiSsEIQ_O4Z5ykHXCj4pcuw
  
 ## 참고 자료
+- 유튜브(Youtube) API - 6. Data API (Channels) (https://joypinkgom.tistory.com/32)
 - API를 활용한 유튜브 크롤링 (https://ssongblog.tistory.com/125) 
 - [Youtube크롤링] 1. Youtube API 호출하기 (https://blog.naver.com/doublet7411/221511344483) 
 - (API+python)Youtube API를 이용하여 좋아요 수 가져오기 (https://anfrhrl5555.tistory.com/93)
