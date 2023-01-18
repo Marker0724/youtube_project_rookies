@@ -52,6 +52,7 @@
 ## 프로젝트 참고 
  - [미니프로젝트] 데이터 수집 (https://velog.io/@moonstar/미니프로젝트-데이터-수집)
  - 유튜브 썸네일 속 글자로 조회수 예측하기 (https://velog.io/@recoder/hitshike-thumbnail-text-01)
+ - [kaggle]유튜브 인기 동영상 데이터 분석(파이썬) (https://95pbj.tistory.com/29)
 
 ## 필요 패키지 설치
 - 유튜브 API 라이브러리
